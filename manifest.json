@@ -1,0 +1,12 @@
+{
+  "display_name": "喵喵预设整理 · Meow",
+  "loading_order": 112,
+  "js": "index.js",
+  "css": "style.css",
+  "author": "demilich1117",
+  "version": "0.1.2",
+  "homePage": "https://github.com/demilich1117/Meow-Preset-Tools",
+  "minimum_client_version": "1.19.0",
+  "auto_update": false,
+  "hooks": {"enable": "onEnable", "disable": "onDisable"}
+}
